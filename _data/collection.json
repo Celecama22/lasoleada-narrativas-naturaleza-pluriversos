@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Análisis película argentina La Soleada " ] },
+    "summary": { "en": [ "Anotaciones para el análisis del universo narrativo de la película argentina La Soleada. Se destacarán las referencias presentes en torno a la naturaleza, los pluriversos y las relaciones más que humanas. " ] },
+    "items": [
+    ]
+}
